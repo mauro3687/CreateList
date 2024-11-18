@@ -125,3 +125,59 @@ form {
 .noTasks {
   font-size: 48px;
 }
+/* styles.css */
+body {
+  font-family: 'Dosis', 'Open Sans', sans-serif;
+}
+
+.mainCard {
+  max-width: 500px;
+  width: 100%;
+  background: #fff;
+  border: 2px solid #ff8aa1;
+}
+
+.heart-icon {
+  width: 50px;
+  height: 50px;
+}
+
+.title {
+  font-family: 'Parisienne', cursive;
+  color: #ff577f;
+  font-size: 2rem;
+}
+
+.text-pink {
+  color: #ff577f;
+}
+
+.btn-pink {
+  background-color: #ff577f;
+  color: white;
+}
+
+.btn-pink:hover {
+  background-color: #ff3b69;
+}
+
+.border-pink {
+  border: 2px solid #ff8aa1;
+}
+
+.input-group input {
+  box-shadow: none !important;
+}
+
+.list-group-item {
+  border: 1px solid #ff8aa1;
+  border-radius: 10px;
+  background-color: #ffe4e9;
+  color: #ff3b69;
+  font-weight: bold;
+}
+
+.list-group-item:hover {
+  background-color: #ffccd5;
+}
+
